@@ -1,0 +1,252 @@
+# The "Gold-2018" paper:
+
+@article{Sagredo:2018ahx,
+    author = "Sagredo, Bryan and Nesseris, Savvas and Sapone, Domenico",
+    title = "{Internal Robustness of Growth Rate data}",
+    eprint = "1806.10822",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.CO",
+    reportNumber = "IFT-UAM/CSIC-18-67, IFT-UAM-CSIC-18-67",
+    doi = "10.1103/PhysRevD.98.083543",
+    journal = "Phys. Rev. D",
+    volume = "98",
+    number = "8",
+    pages = "083543",
+    year = "2018"
+}
+
+# The likelihood paper:
+
+ADD
+
+# the papers where the data come from:
+
+@article{Huterer:2016uyq,
+      author         = "Huterer, Dragan and Shafer, Daniel and Scolnic, Daniel
+                        and Schmidt, Fabian",
+      title          = "{Testing LCDM at the lowest redshifts with SN Ia and
+                        galaxy velocities}",
+      year           = "2016",
+      eprint         = "1611.09862",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1611.09862;%%"
+}
+
+@article{Turnbull:2011ty,
+      author         = "Turnbull, Stephen J. and Hudson, Michael J. and Feldman,
+                        Hume A. and Hicken, Malcolm and Kirshner, Robert P. and
+                        Watkins, Richard",
+      title          = "{Cosmic flows in the nearby universe from Type Ia
+                        Supernovae}",
+      journal        = "Mon. Not. Roy. Astron. Soc.",
+      volume         = "420",
+      year           = "2012",
+      pages          = "447-454",
+      doi            = "10.1111/j.1365-2966.2011.20050.x",
+      eprint         = "1111.0631",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1111.0631;%%"
+}
+
+@article{Hudson:2012gt,
+      author         = "Hudson, Michael J. and Turnbull, Stephen J.",
+      title          = "{The growth rate of cosmic structure from peculiar
+                        velocities at low and high redshifts}",
+      journal        = "Astrophys. J.",
+      volume         = "751",
+      year           = "2013",
+      pages          = "L30",
+      doi            = "10.1088/2041-8205/751/2/L30",
+      eprint         = "1203.4814",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1203.4814;%%"
+}
+
+@article{Davis:2010sw,
+      author         = "Davis, Marc and Nusser, Adi and Masters, Karen and
+                        Springob, Christopher and Huchra, John P. and Lemson,
+                        Gerard",
+      title          = "{Local Gravity versus Local Velocity: Solutions for
+                        $\beta$ and nonlinear bias}",
+      journal        = "Mon. Not. Roy. Astron. Soc.",
+      volume         = "413",
+      year           = "2011",
+      pages          = "2906",
+      doi            = "10.1111/j.1365-2966.2011.18362.x",
+      eprint         = "1011.3114",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1011.3114;%%"
+}
+
+@article{Feix:2015dla,
+      author         = "Feix, Martin and Nusser, Adi and Branchini, Enzo",
+      title          = "{Growth Rate of Cosmological Perturbations at z~0.1
+                        from a New Observational Test}",
+      journal        = "Phys. Rev. Lett.",
+      volume         = "115",
+      year           = "2015",
+      number         = "1",
+      pages          = "011301",
+      doi            = "10.1103/PhysRevLett.115.011301",
+      eprint         = "1503.05945",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1503.05945;%%"
+}
+
+@article{Howlett:2014opa,
+      author         = "Howlett, Cullan and Ross, Ashley and Samushia, Lado and Percival, Will and Manera, Marc",
+      title          = "{The clustering of the SDSS main galaxy sample. Mock galaxy catalogues and a measurement of the growth of structure from redshift space distortions at
+                        $z = 0.15$}",
+      journal        = "Mon. Not. Roy. Astron. Soc.",
+      volume         = "449",
+      year           = "2015",
+      number         = "1",
+      pages          = "848-866",
+      doi            = "10.1093/mnras/stu2693",
+      eprint         = "1409.3238",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1409.3238;%%"
+}
+
+@article{Song:2008qt,
+      author         = "Song, Yong-Seon and Percival, Will J.",
+      title          = "{Reconstructing the history of structure formation using
+                        Redshift Distortions}",
+      journal        = "JCAP",
+      volume         = "0910",
+      year           = "2009",
+      pages          = "004",
+      doi            = "10.1088/1475-7516/2009/10/004",
+      eprint         = "0807.0810",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph",
+      SLACcitation   = "%%CITATION = ARXIV:0807.0810;%%"
+}
+
+@article{Blake:2012pj,
+      author         = "Blake, Chris and others",
+      title          = "{The WiggleZ Dark Energy Survey: Joint measurements of
+                        the expansion and growth history at z < 1}",
+      journal        = "Mon. Not. Roy. Astron. Soc.",
+      volume         = "425",
+      year           = "2012",
+      pages          = "405-414",
+      doi            = "10.1111/j.1365-2966.2012.21473.x",
+      eprint         = "1204.3674",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1204.3674;%%"
+}
+
+@article{Blake:2013nif,
+      author         = "Blake, Chris and others",
+      title          = "{Galaxy And Mass Assembly (GAMA): improved cosmic growth
+                        measurements using multiple tracers of large-scale
+                        structure}",
+      journal        = "Mon. Not. Roy. Astron. Soc.",
+      volume         = "436",
+      year           = "2013",
+      pages          = "3089",
+      doi            = "10.1093/mnras/stt1791",
+      eprint         = "1309.5556",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1309.5556;%%"
+}
+
+@article{Samushia:2011cs,
+      author         = "Samushia, Lado and Percival, Will J. and Raccanelli,
+                        Alvise",
+      title          = "{Interpreting large-scale redshift-space distortion
+                        measurements}",
+      journal        = "Mon. Not. Roy. Astron. Soc.",
+      volume         = "420",
+      year           = "2012",
+      pages          = "2102-2119",
+      doi            = "10.1111/j.1365-2966.2011.20169.x",
+      eprint         = "1102.1014",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1102.1014;%%"
+}
+
+@article{Sanchez:2013tga,
+      author         = "Sanchez, Ariel G. and others",
+      title          = "{The clustering of galaxies in the SDSS-III Baryon
+                        Oscillation Spectroscopic Survey: cosmological
+                        implications of the full shape of the clustering wedges in
+                        the data release 10 and 11 galaxy samples}",
+      journal        = "Mon. Not. Roy. Astron. Soc.",
+      volume         = "440",
+      year           = "2014",
+      number         = "3",
+      pages          = "2692-2713",
+      doi            = "10.1093/mnras/stu342",
+      eprint         = "1312.4854",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1312.4854;%%"
+}
+
+@article{Chuang:2013wga,
+      author         = "Chuang, Chia-Hsun and others",
+      title          = "{The clustering of galaxies in the SDSS-III Baryon
+                        Oscillation Spectroscopic Survey: single-probe
+                        measurements from CMASS anisotropic galaxy clustering}",
+      journal        = "Mon. Not. Roy. Astron. Soc.",
+      volume         = "461",
+      year           = "2016",
+      number         = "4",
+      pages          = "3781-3793",
+      doi            = "10.1093/mnras/stw1535",
+      eprint         = "1312.4889",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1312.4889;%%"
+}
+
+@article{Zhao:2018jxv,
+      author         = "Zhao, Gong-Bo and others",
+      title          = "{The clustering of the SDSS-IV extended Baryon
+                        Oscillation Spectroscopic Survey DR14 quasar sample: a
+                        tomographic measurement of cosmic structure growth and
+                        expansion rate based on optimal redshift weights}",
+      year           = "2018",
+      eprint         = "1801.03043",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1801.03043;%%"
+}
+
+@article{Pezzotta:2016gbo,
+      author         = "Pezzotta, A. and others",
+      title          = "{The VIMOS Public Extragalactic Redshift Survey (VIPERS): The growth of structures at $0.5<z<1.2$ from redshift-space distortions in the clustering of the PDR-2 final sample}",
+      year           = "2016",
+      eprint         = "1612.05645",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1612.05645;%%"
+}
+
+@article{Okumura:2015lvp,
+      author         = "Okumura, Teppei and others",
+      title          = "{The Subaru FMOS galaxy redshift survey (FastSound). IV.
+                        New constraint on gravity theory from redshift space
+                        distortions at $z\sim 1.4$}",
+      journal        = "Publ. Astron. Soc. Jap.",
+      volume         = "68",
+      year           = "2016",
+      number         = "3, id. 38",
+      pages          = "24",
+      doi            = "10.1093/pasj/psw029",
+      eprint         = "1511.08083",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.CO",
+      SLACcitation   = "%%CITATION = ARXIV:1511.08083;%%"
+}

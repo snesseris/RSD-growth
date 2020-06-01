@@ -1,2 +1,11 @@
 # RSD-growth
-This is an RSD likelihood for the MontePython code, based on the "Gold-2018" data set. The code was first presented in the paper arXiv: 2006.xxxx.
+Created by Savvas Nesseris, IFT UAM-CSIC, 2020. 
+
+This is an RSD likelihood for the MontePython code, based on the "Gold-2018" data set of arXiv:1806.10822. The code was first presented in the paper arXiv: 2006.xxxx. If you use the code please cite my papers 1806.10822, 2006.xxxx and the papers for ecah data point. A bib file and a txt file a table with the data are given seperately. 
+
+Installation: Copy the files found in /data, /input and /likelihoods in the corresponding Montepython directories. A test script is also provided.
+
+Whats new:
+* Version 1.0 (June 1st, 2020): Initial version of the code. 
+
+Released under a GNU v3 licence. 

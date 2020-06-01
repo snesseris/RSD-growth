@@ -1,0 +1,5 @@
+growth_SN.data_directory = os.path.join(data.path['data'], 'growth_SN')
+growth_SN.data_file      = 'data_growth_2018_main.txt'
+growth_SN.cov_Wig_file   = 'Cij_WiggleZ.txt'
+growth_SN.cov_SDSS_file  = 'Cij_SDSS.txt'
+growth_SN.conflicting_experiments = ['bao_fs_boss_dr12']

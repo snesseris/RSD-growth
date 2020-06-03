@@ -15,9 +15,19 @@
     year = "2018"
 }
 
-# The likelihood paper:
+# The new likelihood paper:
 
-ADD
+@article{1798956,
+    author = "Arjona, Rubén and García-Bellido, Juan and Nesseris, Savvas",
+    title = "{Cosmological constraints on non-adiabatic dark energy perturbations}",
+    eprint = "2006.01762",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.CO",
+    reportNumber = "IFT-UAM/CSIC-20-80",
+    month = "6",
+    year = "2020"
+}
+
 
 # the papers where the data come from:
 

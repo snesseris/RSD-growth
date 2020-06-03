@@ -5,7 +5,7 @@ This is an RSD likelihood for the MontePython code, based on the "Gold-2018" dat
 
 Installation: Copy the files found in /data, /input and /likelihoods in the corresponding Montepython directories. A test script is also provided.
 
-Whats new:
+What's new:
 * Version 1.0 (June 1st, 2020): Initial version of the code. 
 
 Released under a GNU v3 licence. 
